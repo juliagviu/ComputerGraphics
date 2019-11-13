@@ -1,0 +1,8 @@
+Compile the program with CMake:
+
+cd src
+mkdir build
+cd build
+cmake ..
+make
+./SmallPM
