@@ -4,3 +4,5 @@ Assignments for Computer Graphics course 2018/19. It includes a Path Tracer deve
 The following image was created using the developed Path Tracer, just using the C++ STD Library:
 
 ![](rendercontest.png)
+
+Authors: Julia Guerrero Viu and Sergio Izquierdo Barranco
